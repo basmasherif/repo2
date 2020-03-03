@@ -1,6 +1,7 @@
-package com.Basma;
+
 
 public class ConcatenateString {
+
 	  public static void main(String[] args) {
 	        String str1 = "PHP";
 	        System.out.println("Original string: "+str1);
